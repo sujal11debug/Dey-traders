@@ -119,10 +119,10 @@
 
   <div id="contact" class="section">
     <h2>Contact Us</h2>
-    <p><strong>Address:</strong> [Your Shop Address Here]</p>
-    <p><strong>Phone:</strong> +91-XXXXXXXXXX</p>
+    <p><strong>Address:</strong> [Sarguli,Odisha,764074]</p>
+    <p><strong>Phone:</strong> +91-9938317631</p>
     <p><strong>WhatsApp:</strong> [WhatsApp Link]</p>
-    <p><strong>Business Hours:</strong> Mon–Sat, 9am–6pm</p>
+    <p><strong>Business Hours:</strong> Mon–Sat, 6am–6pm</p>
   </div>
 
   <footer>
